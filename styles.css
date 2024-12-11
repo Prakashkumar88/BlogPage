@@ -138,6 +138,7 @@ body {
   /* navbar-login*/
   height: 60px;
   width: 150px;
+  gap: 8px;
   display: flex;
   align-items: center;
   justify-content: center;
